@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+header{
+    background-color: rgb(161, 21, 21);
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+
+}
+.card{
+    color: black;
+    float: right;
+    border: solid 3px;
+    float: right;
+    width: 40%;
+    height: 40%;
+    margin: 20px 20px;
+    padding: 1%;
+}
+img{
+    width: 18%;
+    padding-top: 1%;
+    padding: 1%;
+    
+    
+}
+table, th, td{
+    border: 2px black solid;
+    
+
+}
+table{
+    margin:  3% 1%;
+}
+
+th {
+    background-color: rgb(155, 0, 0);
+}
+
+footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color :rgb(161, 21, 21);
+    padding: 1%;
+}
